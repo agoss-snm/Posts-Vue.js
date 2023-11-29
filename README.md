@@ -1,6 +1,12 @@
-# Posts App consuming https://jsonplaceholder.typicode.com/ 
+# Posts App
 
-This template should help get you started developing with Vue 3 in Vite.
+A Vue.js application that consumes data from https://jsonplaceholder.typicode.com/ to display and interact with posts. The app includes features such as pagination, post deletion, and the ability to mark a favorite post.
+
+
+#  Technologies Used:
+Vue.js
+Vite
+
 
 ## Recommended IDE Setup
 
